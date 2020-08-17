@@ -10,3 +10,10 @@ Value lies in:
 * Managing and implementing change. 
 * Retaining and re-using knowledge.
 * Organisational wide learning from past successes and failures.
+
+Project management methodoligies:
+* Waterfall [[waterfall.md]]
+* SCRUM
+* Prince2
+* Agile [[agile.md]]
+
