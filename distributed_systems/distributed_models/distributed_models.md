@@ -11,3 +11,16 @@ The non functional aspects such as:
 * Reliability
 * Security
 * Performance
+
+
+
+### Variations of interaction models
+Two simple models of distributed system interaction are:
+* Synchronous system model - assumes known bounds on:
+    * The time to execute
+    * Message transmission delay
+    * Local clock drift rate
+* Asynchronous system model - assumes no bound on:
+    * Process execution speed
+    * Message transmission delays
+    * Clock drift rates
