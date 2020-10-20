@@ -41,3 +41,15 @@ UAW = N_s * 1 + N_a * 2 + N_c * 3
 ![ECF](ecf.png)
 ### Compute final UCP
 UCP = (UUCW + UAW) * TCF * ECF
+
+### Advantages of UCP
+* UCP are based on use cases and can be measured very early in the project life cycle
+* UCP based estimates are found to be close to actuals when estimation is performed by experienced people
+* UCPs are easy to use and do not call for additional analysis
+* Use cases are being used vastly as a method of choice to describe requirements
+
+### Disadvantages of UCP
+* UCP can be used only when requirements are written in the form of use cases
+* Dependant on goal oriented, well written use cases
+* Technical and environmental factors have high impact on UCP
+* Not as well established as FPs
