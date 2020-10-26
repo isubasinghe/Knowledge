@@ -8,5 +8,3 @@
 * Replication -> Inconsistencies
 * Inconsistencies -> Low performance
 * Low performance -> mitigate with Probabilistic Bounded Staleness 
-
- 

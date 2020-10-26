@@ -17,3 +17,4 @@ C3 Rxy
 C4 Rxy
 
 #### The above example becomes even harder under multiple server scenarios, without some underlying concensus, this becomes disastrous. 
+
