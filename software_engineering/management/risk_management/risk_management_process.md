@@ -18,5 +18,5 @@ Plan
 
   Monitor and control
 
-* How can we detect the ongoing status of our risks? How can we control them effectively and efficiently? 
+* How can we detect the ongoing status of our risks? How can we control them effectively and efficiently?
 

@@ -7,7 +7,7 @@
 * Involvement and ownership across the team.
 * Customer focus over formalised sign offs.
 
-### Pros
+## Pros
 
 * Retains flexibilty while continually producing outcomes - less rework.
 * Greater communication and engagement - increased buy in across the team of the end outcome.

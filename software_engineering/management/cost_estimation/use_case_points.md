@@ -20,7 +20,7 @@ Count the number of simple, average, complex use cases based on the number of tr
 | Average | 4 to 7 | 10 |
 | Complex | 8 or more | 15 |
 
-UUCW = N\_s  _5 + N\_a_  10 + N\_c \* 15
+UUCW = N\_s _5 + N\_a_ 10 + N\_c \* 15
 
 ## Compute UAW
 
@@ -32,7 +32,7 @@ Count the number of simple, average, complex actors
 | Average | External system using a standard protocol | 2 |
 | Complex | Human actor using GUI | 3 |
 
-UAW = N\_s  _1 + N\_a_  2 + N\_c \* 3
+UAW = N\_s _1 + N\_a_ 2 + N\_c \* 3
 
 ## Compute TCF
 
@@ -44,7 +44,7 @@ UAW = N\_s  _1 + N\_a_  2 + N\_c \* 3
 
 ## Compute final UCP
 
-UCP = \(UUCW + UAW\)  _TCF_  ECF
+UCP = \(UUCW + UAW\) _TCF_ ECF
 
 ## Advantages of UCP
 

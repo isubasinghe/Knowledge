@@ -4,11 +4,11 @@
    * Several experts on the proposed technique and application estimate project cost. There are discussed and compared until an agreement is reached.
    * Some expert judgement techniques involve polling each expert independently, in some cases for three estimates, pessimistic \(p\); optimistic \(o\) and most likely \(m\).
 
-      Then estimate is computed by e = \(p + 4m + o\)/6
+     Then estimate is computed by e = \(p + 4m + o\)/6
 
-   * Delphi technique: asks several experts to make an individual judgement of the effort using any method they wish. Then, the average effort is calculated, and presented to all of the experts. 
+   * Delphi technique: asks several experts to make an individual judgement of the effort using any method they wish. Then, the average effort is calculated, and presented to all of the experts.
 
-        Each expert is given a chance to revise, discussion maybe involved. This process repeats until a concensus has been reached. 
+     Each expert is given a chance to revise, discussion maybe involved. This process repeats until a concensus has been reached.
 2. Estimation by analogy
    * The cost of a new project is estimated based on similar projects in the same application domain. 
 3. Parkinson's Law
@@ -21,14 +21,14 @@
    * A model is developed using historical cost information based on some software metric \(usually its size\) to the project cost. 
    * When a project effort needs to be estimated, an estimate of the metric is computed. 
    * Using the model, effort is predicted.
-   * The most general form is := Effort = A  _Size^B_  M
+   * The most general form is := Effort = A _Size^B_ M
 
-       where 
+     where
 
      ```text
      A is a constant factor based on organisational practices.
      Size is the size of the software estimated in a metric of choice.
      B is a value between 1 and 1.5 derived experimentally. 
-     M is a multiplier made by combining various attributes (process, stability of reqs, experience, skill). 
+     M is a multiplier made by combining various attributes (process, stability of reqs, experience, skill).
      ```
 

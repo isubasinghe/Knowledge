@@ -140,7 +140,7 @@
   * [string\_theory](physics/string_theory/README.md)
     * [String Theory](physics/string_theory/string_theory.md)
   * [relativity](physics/relativity/README.md)
-    * [Relativty](physics/relativity/relativity.md)
+    * [Relativity](physics/relativity/relativity.md)
   * [quantumn\_loop\_gravity](physics/quantumn_loop_gravity/README.md)
     * [Quantumn Loop Gravity](physics/quantumn_loop_gravity/quantumn_loop_gravity.md)
 * [philosophy](philosophy/README.md)

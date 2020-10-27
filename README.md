@@ -7,7 +7,3 @@ description: >-
 
 # Isitha's Wiki
 
-I have a lot of topics here, from philosophy all the way to how quantumn tunnelling implies faster than light particles. 
-
-
-

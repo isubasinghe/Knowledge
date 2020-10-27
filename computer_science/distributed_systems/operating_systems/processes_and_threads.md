@@ -21,7 +21,7 @@ In a distributed system there is a choice as to where the new process will be cr
 * **transfer policy :** determines whether the new process is allocated locally or remotely. 
 * **location policy :** determines which host, from a set of given hosts, the new process should be allocated on.
 
-  The policy is often transparent to the user and will attempt to take into account such things as relative load across hosts, IPC, architectures and specialised resources that processes may require. 
+  The policy is often transparent to the user and will attempt to take into account such things as relative load across hosts, IPC, architectures and specialised resources that processes may require.
 
 ## Process migration
 
