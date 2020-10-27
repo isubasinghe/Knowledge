@@ -1,1 +1,2 @@
-## Hindler-Milner type system 
+# Hindler-Milner type system
+

@@ -1,5 +1,6 @@
-## Hilbert curve scheduling
+# Hilbert curve scheduling
 
+## Resources
 
-#### Resources
-* https://en.wikipedia.org/wiki/Hilbert_curve_scheduling
+* [https://en.wikipedia.org/wiki/Hilbert\_curve\_scheduling](https://en.wikipedia.org/wiki/Hilbert_curve_scheduling)
+

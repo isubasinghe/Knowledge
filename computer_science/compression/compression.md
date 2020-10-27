@@ -1,3 +1,4 @@
-## Compression
-Huffman coding
-Arithmetic encoding
+# Compression
+
+Huffman coding Arithmetic encoding
+

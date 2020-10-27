@@ -1,1 +1,2 @@
-## Segment Trees
+# Segment Trees
+

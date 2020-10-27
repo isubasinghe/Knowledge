@@ -1,10 +1,12 @@
-## Distributed File Systems 
+# Distributed File Systems
 
-### Why hard 
-* Performance -> Sharding
-* Sharding -> Faults
-* Faults -> Tolerance 
-* Tolerance -> Replication 
-* Replication -> Inconsistencies
-* Inconsistencies -> Low performance
-* Low performance -> mitigate with Probabilistic Bounded Staleness 
+## Why hard
+
+* Performance -&gt; Sharding
+* Sharding -&gt; Faults
+* Faults -&gt; Tolerance 
+* Tolerance -&gt; Replication 
+* Replication -&gt; Inconsistencies
+* Inconsistencies -&gt; Low performance
+* Low performance -&gt; mitigate with Probabilistic Bounded Staleness 
+

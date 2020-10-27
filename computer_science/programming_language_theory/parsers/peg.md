@@ -1,2 +1,2 @@
-## Parsing Expression Grammer (PEG) parser
+# Parsing Expression Grammer \(PEG\) parser
 

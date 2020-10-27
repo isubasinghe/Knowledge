@@ -1,1 +1,2 @@
-## LR(0) parser
+# LR\(0\) parser
+

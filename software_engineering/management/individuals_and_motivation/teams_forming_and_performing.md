@@ -1,10 +1,12 @@
-## How teams form & perform - Tuckman's team development model
+# How teams form & perform - Tuckman's team development model
+
 * First proposed by Bruce Tuckman in 1965
-* 4 stages - Forming, Storming, Norming, Performing --> Adjourning (added later)
+* 4 stages - Forming, Storming, Norming, Performing --&gt; Adjourning \(added later\)
 
+## Is the team effective or not
 
-### Is the team effective or not
-#### Positive signs
+### Positive signs
+
 * Clear comms 
 * Regular brainstorming
 * Concensus among team members
@@ -13,8 +15,9 @@
 * Regular team meatings are effective and inclusive
 * Timely hand off from team members to others or early advise if this wont happen
 * Positive supporting relationships
-  
-#### Negative signs
+
+### Negative signs
+
 * Lack of comms
 * No clear roles or responsibilities
 * Work is thrown over a wall
@@ -22,3 +25,4 @@
 * Blame others when things go wrong, no one accepts responsibility
 * Lack of support for others
 * Frequently absent impacting time and creating additional work for others
+

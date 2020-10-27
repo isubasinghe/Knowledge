@@ -1,6 +1,8 @@
-## Hutter Prize
+# Hutter Prize
+
 Hutter prize essentially states that AI and compression are the same problem
 
+## Resources
 
-#### Resources
-https://en.wikipedia.org/wiki/Hutter_Prize
+[https://en.wikipedia.org/wiki/Hutter\_Prize](https://en.wikipedia.org/wiki/Hutter_Prize)
+
