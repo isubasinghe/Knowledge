@@ -1,2 +1,0 @@
-# Quantumn Loop Gravity
-

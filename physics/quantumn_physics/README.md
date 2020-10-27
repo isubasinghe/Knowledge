@@ -1,2 +1,0 @@
-# quantumn\_physics
-
