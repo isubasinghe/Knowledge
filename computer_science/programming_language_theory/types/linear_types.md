@@ -1,1 +1,2 @@
-## Linear Types
+# Linear Types
+

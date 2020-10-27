@@ -1,5 +1,6 @@
-## Kolmogorov complexity
+# Kolmogorov complexity
 
+## Resources
 
-#### Resources
-https://en.wikipedia.org/wiki/Kolmogorov_complexity
+[https://en.wikipedia.org/wiki/Kolmogorov\_complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
+

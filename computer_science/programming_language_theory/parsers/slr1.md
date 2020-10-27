@@ -1,1 +1,2 @@
-## SLR(1) parser
+# SLR\(1\) parser
+

@@ -1,16 +1,20 @@
-## Consistency
+# Consistency
+
 Consistency in the context of distributed systems revolve around two things, safety and liveness.
 
-### Eventual consistency
+## Eventual consistency
+
 Makes promises about liveness only.
 
-### Strong eventual consistency
+## Strong eventual consistency
+
 Makes promises about liveness and safety
 
-### Liveness
-The property that eventually something good will happen.
-For example saying that a system will return a result to every API call is a liveness property.
+## Liveness
 
-### Safety
-The property states that nothing bad will ever happen. 
-For example never returning a wrong value or electing two leaders.
+The property that eventually something good will happen. For example saying that a system will return a result to every API call is a liveness property.
+
+## Safety
+
+The property states that nothing bad will ever happen. For example never returning a wrong value or electing two leaders.
+

@@ -1,1 +1,2 @@
-## Algebraic Data Type (ADT)
+# Algebraic Data Type \(ADT\)
+
