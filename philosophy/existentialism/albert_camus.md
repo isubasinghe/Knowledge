@@ -1,6 +1,8 @@
 ## Albert Camus
 > The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.
 
+> Become so absolutely free that your very existence is an act of rebellion.
+
 ## Le Peste (The Plague)
 Oran is an ordinary town. 
 Dr.Rio comes across dead rats, 
