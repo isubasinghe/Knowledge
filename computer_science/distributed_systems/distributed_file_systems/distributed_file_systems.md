@@ -1,12 +1,13 @@
 # Distributed File Systems
 
-## Why hard
+## Why are distributed file systems hard?
+Distributed systems need performance
 
-* Performance -&gt; Sharding
-* Sharding -&gt; Faults
-* Faults -&gt; Tolerance 
-* Tolerance -&gt; Replication 
-* Replication -&gt; Inconsistencies
-* Inconsistencies -&gt; Low performance
-* Low performance -&gt; mitigate with Probabilistic Bounded Staleness 
+* Performance `fixedBy` Sharding
+* Sharding `fixedBy` Faults
+* Faults `fixedBy` Tolerance 
+* Tolerance `fixedBy` Replication 
+* Replication `fixedBy` Inconsistencies
+* Inconsistencies `fixedBy` Low performance
+* Low performance `fixedBy` mitigate with Probabilistic Bounded Staleness 
 
