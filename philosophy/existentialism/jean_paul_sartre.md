@@ -1,5 +1,5 @@
 ## Jean-Paul Sartre
-
+> Man is condemned to be free; because once thrown into the world, he is responsible for everything he does.
 
 ## The absurdity of the world
 Everything is absurd. 
