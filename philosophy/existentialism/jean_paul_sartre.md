@@ -17,7 +17,8 @@ Everything is possible, we can cast away any shackles.
 
 ## Bad Faith
 We are in bad faith when we force ourselves to do something that we do
-not want to do. 
+not want to do, things that we do when we fall to external pressures of society
+to adopt false values and disown our innate freedom as sentient human beings.
 
 #### Resources
 * https://www.youtube.com/watch?v=3bQsZxDQgzU
