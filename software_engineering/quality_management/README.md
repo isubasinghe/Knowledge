@@ -1,2 +1,0 @@
-# quality\_management
-
