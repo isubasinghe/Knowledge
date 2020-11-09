@@ -1,2 +1,2 @@
-# String Theory
+## String Theory
 
