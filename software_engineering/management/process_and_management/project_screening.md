@@ -9,5 +9,4 @@
   * Have oversight
   * Drive accountability
 
-![Project Screening](../../../.gitbook/assets/project_screening.png)
-
+![Project Screening](<../../../.gitbook/assets/project\_screening (1).png>)

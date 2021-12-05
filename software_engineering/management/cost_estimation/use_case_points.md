@@ -1,24 +1,24 @@
-# Use case points \(UCP\)
+# Use case points (UCP)
 
 Is a software estimation technique used the measure the software size with Use cases Developed in 1993 for sizing and estimating projects using OO methodology The concept of UCP is similar to FP
 
 Use cases describe the functionality of the system Use cases model the dialog between the actors and the system Primary purpose is to document functional requirements but also used for testing purposes
 
-1. Compute unadjusted use case weight \(UUCW\)
-2. Compute unadjusted actor weight \(UAW\)
-3. Compute technical complexity factor \(TCF\)
-4. Compute environmental complexity factor \(ECF\)
+1. Compute unadjusted use case weight (UUCW)
+2. Compute unadjusted actor weight (UAW)
+3. Compute technical complexity factor (TCF)
+4. Compute environmental complexity factor (ECF)
 5. Compute the final size estimate
 
 ## Compute UUCW
 
 Count the number of simple, average, complex use cases based on the number of transactions as per table below.
 
-| Use case classification | Type of actor | Weight |
-| :---: | :--- | :--- |
-| Simple | 1 to 3 transactions | 5 |
-| Average | 4 to 7 | 10 |
-| Complex | 8 or more | 15 |
+| Use case classification | Type of actor       | Weight |
+| :---------------------: | ------------------- | ------ |
+|          Simple         | 1 to 3 transactions | 5      |
+|         Average         | 4 to 7              | 10     |
+|         Complex         | 8 or more           | 15     |
 
 UUCW = N\_s _5 + N\_a_ 10 + N\_c \* 15
 
@@ -26,25 +26,25 @@ UUCW = N\_s _5 + N\_a_ 10 + N\_c \* 15
 
 Count the number of simple, average, complex actors
 
-| Actor classification | Type of Actor | Weight |
-| :---: | :--- | :--- |
-| Simple | External system interacting using a well defined API | 1 |
-| Average | External system using a standard protocol | 2 |
-| Complex | Human actor using GUI | 3 |
+| Actor classification | Type of Actor                                        | Weight |
+| :------------------: | ---------------------------------------------------- | ------ |
+|        Simple        | External system interacting using a well defined API | 1      |
+|        Average       | External system using a standard protocol            | 2      |
+|        Complex       | Human actor using GUI                                | 3      |
 
 UAW = N\_s _1 + N\_a_ 2 + N\_c \* 3
 
 ## Compute TCF
 
-![TCF](../../../.gitbook/assets/tcf%20%281%29.png)
+![TCF](<../../../.gitbook/assets/tcf (2) (2).png>)
 
 ## Compute ECF
 
-![ECF](../../../.gitbook/assets/ecf%20%281%29.png)
+![ECF](<../../../.gitbook/assets/ecf (2) (2).png>)
 
 ## Compute final UCP
 
-UCP = \(UUCW + UAW\) _TCF_ ECF
+UCP = (UUCW + UAW) _TCF_ ECF
 
 ## Advantages of UCP
 
@@ -59,4 +59,3 @@ UCP = \(UUCW + UAW\) _TCF_ ECF
 * Dependant on goal oriented, well written use cases
 * Technical and environmental factors have high impact on UCP
 * Not as well established as FPs
-
