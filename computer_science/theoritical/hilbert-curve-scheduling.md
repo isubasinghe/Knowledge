@@ -1,2 +1,0 @@
-# Hilbert curve scheduling
-
