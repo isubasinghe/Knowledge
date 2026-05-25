@@ -1,5 +1,16 @@
 # Albert Camus
 
+## Basic idea
+
+French-Algerian writer-philosopher (1913-1960). Distinguished himself from existentialism as an *absurdist*: life has no inherent meaning, but suicide is not the answer — revolt, freedom, and passion are.
+
+## Key tenets
+
+- The Absurd: the collision between human longing for meaning and the universe's silence.
+- Three responses considered, two rejected (suicide, philosophical leap to faith), one embraced: revolt.
+- "One must imagine Sisyphus happy" — meaning is forged in the struggle, not at its end.
+- Solidarity and ordinary decency are the practical ethics of an absurd world.
+
 ## Albert Camus
 
 > The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.

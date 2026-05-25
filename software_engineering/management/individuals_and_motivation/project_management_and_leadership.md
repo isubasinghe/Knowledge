@@ -1,5 +1,15 @@
 # Project management and leadership
 
+## Basic idea
+
+Management and leadership are distinct: management = process, resources, decisions; leadership = inspiring people toward a shared goal. Effective project managers do both.
+
+## Key facts
+
+- Management ≠ leadership: one organises work, the other moves people.
+- Common motivation mistakes: assuming money is the prime motivator, treating everyone the same, only intervening when there's a problem.
+- Different people respond to different motivators — Maslow / Herzberg apply individually.
+
 Project Management & Leadership - motivates and demotivates the team!
 
 * Project managers must Manage and Lead

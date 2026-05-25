@@ -1,5 +1,14 @@
 # Team advantages/disadvantages
 
+## Basic idea
+
+Teams concentrate complementary skills and broaden ownership, but also surface social pathologies — groupthink, social loafing, free-riding — that solo work avoids. Whether a team beats individuals is mostly about management skill.
+
+## Key facts
+
+- Advantages: larger idea pool, mutual learning, continuity, motivation, ownership.
+- Disadvantages: time to manage, overshadowing, unequal contribution, social loafing, groupthink, demoralising members.
+
 ## Advantages
 
 * Provides a larger pool of ideas 

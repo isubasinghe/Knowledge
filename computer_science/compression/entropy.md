@@ -1,5 +1,9 @@
 # Entropy
 
+## Basic idea
+
+Shannon entropy measures the average information content (in bits) of a random variable. It is the lower bound on the average code length for lossless compression.
+
 ### Shannon entropy
 
 ![H\(X\)=-\sum\_{i=1}^{n} P\(x\_i\) \log{P\(x\_i\)}](https://i.upmath.me/svg/H%28X%29%3D-%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20P%28x_i%29%20%5Clog%7BP%28x_i%29%7D)

@@ -1,3 +1,15 @@
+# Planning in Agile
+
+## Basic idea
+
+Planning in Agile is *layered* (portfolio → product → release → sprint → daily) and *deferred* — detailed planning happens at the start of each iteration, not up-front. Velocity (story points / sprint) drives forecasts.
+
+## Key formulas
+
+- Fixed date: $SP_{min} = V_{min} \cdot N,\ SP_{max} = V_{max} \cdot N$
+- Fixed scope: $S_{min} = SP_{total}/V_{max},\ S_{max} = SP_{total}/V_{min}$
+- Velocity = mean story points completed per sprint.
+
 ## Planning in Agile
 
 Takes a signigicantly different flavour from traditional approaches.

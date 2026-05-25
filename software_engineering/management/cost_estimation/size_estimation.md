@@ -1,5 +1,15 @@
 # Size Estimation
 
+## Basic idea
+
+Estimating *how big* the software will be — a prerequisite for any algorithmic cost model. Three popular metrics: SLOC (post-hoc, language-dependent), Function Points (from requirements), Use Case Points (from use cases).
+
+## Key facts
+
+- SLOC: easy to count after the fact, useless to predict beforehand without analogous projects.
+- FP: requires written requirements spec; language-independent.
+- UCP: needs well-written use cases.
+
 Commonly used metric for software size estimation
 
 * Source lines of code \(SLOC\)

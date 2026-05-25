@@ -1,3 +1,16 @@
+# Definitions
+
+## Basic idea
+
+Core vocabulary for scheduling: *activity* (work taking time + resources), *milestone* (zero-duration checkpoint), *float* (slack — how much an activity can slip), *critical path* (longest activity chain — slack = 0).
+
+## Key formulas
+
+- $\text{Total float} = LS - ES = LF - EF$
+- $\text{Free float} = \min(ES_{succ}) - EF$
+- Critical activity: $\text{total float} = 0$
+- Critical path: any path of critical activities from start → end.
+
 ## Definitions
 
 ### Activity (Task)

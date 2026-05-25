@@ -1,3 +1,15 @@
+# Effort-time estimation
+
+## Basic idea
+
+Estimate the *effort* (work) and *time* (duration) for each task. The two are not interchangeable — Brooks's mythical man-month: adding people to a late project makes it later.
+
+## Key formulas
+
+- PERT three-point: $T_E = (O + 4M + P)/6$
+- PERT std dev: $\sigma = (P - O)/6$
+- COCOMO schedule from effort: $T_{dev} = 2.5 \cdot E^{0.38}$ months (organic)
+
 ## Effort-time estimation
 
 A common measure for estimating the effort for software is **man-months**

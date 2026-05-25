@@ -1,3 +1,15 @@
+# Milestones vs Deliverables
+
+## Basic idea
+
+A **milestone** is a zero-duration checkpoint marking a point in time. A **deliverable** is a tangible artefact (doc, prototype, app) produced at or around a milestone. They co-occur but are not the same thing.
+
+## Key facts
+
+- Milestone: an *event* (start, end, phase boundary, review gate). Takes zero time.
+- Deliverable: an *artefact* (PMP, requirements spec, design doc, test plan, prototype, final app).
+- A milestone often *signals* delivery of a deliverable.
+
 ## Milestones vs Deliverables
 
 ### Milestones

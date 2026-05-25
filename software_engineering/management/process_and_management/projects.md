@@ -1,5 +1,15 @@
 # Projects
 
+## Basic idea
+
+A *project* is a temporary endeavour producing a unique outcome — bounded in time, cross-functional, introducing change. Distinct from business-as-usual ("BAU") work.
+
+## Key facts
+
+- Six characteristics: change, temporary, cross-functional, unknown, unique, varying size/time.
+- Software projects historically fail at ~70%: only ~20% wholly succeed.
+- Top success factors: executive sponsorship (15%), emotional maturity (15%), user involvement, skilled resources.
+
 ## What is a project?
 
 A temporary endeavour to create an unique product, service or outcome.

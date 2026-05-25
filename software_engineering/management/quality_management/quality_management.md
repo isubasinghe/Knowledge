@@ -1,5 +1,16 @@
 # Quality management
 
+## Basic idea
+
+Quality is a habit, not an act — it must be built in from the start. Quality management = QA (set the standards) + QP (pick the right ones for this project) + QC (verify they were followed).
+
+## Key facts
+
+- External quality: user-facing (correctness, usability, reliability).
+- Internal quality: developer-facing (cleanliness, maintainability, performance).
+- Cost of quality: empirically, investing in QA pays off — defects are vastly cheaper to prevent than to fix.
+- Three sub-processes: assurance, planning, control.
+
 ## What is quality?
 
 Quality is not an act, it is a habbit It must be built into the system from the start

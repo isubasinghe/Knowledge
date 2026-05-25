@@ -1,5 +1,15 @@
 # Processes and threads
 
+## Basic idea
+
+A process is the OS's unit of resource allocation (address space, open files); a thread is its unit of scheduling. New processes are usually created by *fork* (duplicate) + *exec* (replace image), with copy-on-write avoiding the actual copy.
+
+## Key facts
+
+- `fork()` duplicates address space; pages stay shared and read-only until written (copy-on-write).
+- Process creation in distributed OS uses transfer + location policies (where to run).
+- Process migration: cheap when code is architecture-independent and resources are migrate-able.
+
 A process encapsulates the basic resources of memory and processor time. It also encapsulates other higher level resources. Each process:
 
 * has an address space and has some amount of allocated memory.

@@ -1,5 +1,16 @@
 # Computer Networks
 
+## Basic idea
+
+Spatially separated computers exchanging messages over a shared physical medium according to a layered stack of protocols (link → IP → TCP/UDP → application).
+
+## Key facts
+
+- Layered model: physical / link / network (IP) / transport (TCP, UDP) / application.
+- Internet: a network of networks linked by ISPs and backbone routers; addresses via IP.
+- Intranet: privately administered subnet of the Internet, isolated by firewalls.
+- Wireless paradigms enable mobile, ubiquitous and IoT computing.
+
 Common distributed systems based on widely used computer networks
 
 * The internet

@@ -1,5 +1,15 @@
 # Distributed Systems
 
+## Basic idea
+
+A collection of independent networked computers that appears to its users as a single coherent system. The defining hardships are concurrency, absence of a global clock, and independent failures.
+
+## Key facts
+
+- Resource-sharing benefits: economy, reliability, availability, scalability.
+- Consequences: concurrency, no global clock, independent failures.
+- Distinguished from a plain computer network by transparency: locations and communication are hidden.
+
 ## What is a distributed system?
 
 * A system in which hardware or software components located at networked computers communicate and coordinate their efforts

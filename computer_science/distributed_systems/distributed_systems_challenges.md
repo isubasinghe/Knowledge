@@ -1,5 +1,15 @@
 # Challenges of Distributed Systems
 
+## Basic idea
+
+Distributed systems must overcome a fixed set of recurring hardships beyond what single-machine programs face: heterogeneity, openness, security, scalability, failure handling, concurrency, and transparency.
+
+## Key facts
+
+- The "eight fallacies of distributed computing": network is reliable / zero latency / infinite bandwidth / secure / topology stable / one admin / zero transport cost / homogeneous — all false.
+- Transparency dimensions: access, location, concurrency, replication, failure, mobility, performance, scaling.
+- Failure-handling toolkit: detect, mask, tolerate, recover, redundancy.
+
 * Heterogenity
 * Openness
 * Security

@@ -1,3 +1,15 @@
+# Speed of light
+
+## Basic idea
+
+$c$ is the invariant speed of causality and the maximum signal speed. Crucially: only the two-way (round-trip) speed is operationally measured; the one-way speed depends on a synchronisation convention.
+
+## Key formulas
+
+- $c \approx 2.998 \times 10^8$ m/s (exact since 1983: $c = 299{,}792{,}458$ m/s)
+- $c = 1/\sqrt{\mu_0 \varepsilon_0}$ (from Maxwell's equations)
+- Two-way speed (Einstein convention): $\bar c = 2 L / (t_{A\to B} + t_{B\to A}) = c$
+
 ## Speed of light
 The speed of light is **c**,
 but **c** is measured through entire return trip from point A to point B and back again.

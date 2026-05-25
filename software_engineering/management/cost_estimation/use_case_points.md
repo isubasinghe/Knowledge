@@ -1,5 +1,17 @@
 # Use case points (UCP)
 
+## Basic idea
+
+A FP-style sizing technique driven by use cases instead of requirements specs. Sums weighted use-case counts and actor counts, then scales by technical and environmental complexity factors. Developed in 1993 for OO methodology.
+
+## Key formulas
+
+- $UCP = (UUCW + UAW) \times TCF \times ECF$
+- $UUCW = 5 N_s + 10 N_a + 15 N_c$ (simple / avg / complex use cases)
+- $UAW  = 1 N_s + 2 N_a + 3 N_c$ (simple / avg / complex actors)
+- $TCF = 0.6 + 0.01 \sum w_i F_i$ (13 technical factors)
+- $ECF = 1.4 - 0.03 \sum w_i F_i$ (8 environmental factors)
+
 Is a software estimation technique used the measure the software size with Use cases Developed in 1993 for sizing and estimating projects using OO methodology The concept of UCP is similar to FP
 
 Use cases describe the functionality of the system Use cases model the dialog between the actors and the system Primary purpose is to document functional requirements but also used for testing purposes

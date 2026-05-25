@@ -1,5 +1,15 @@
 # Project initialisation
 
+## Basic idea
+
+The set-up phase. Establishes the *business case* — a living document that justifies, at every gate, why the project is still worth doing — and selects an appropriate methodology (PRINCE2, PMBOK, Agile, hybrid).
+
+## Key facts
+
+- Business case = factual basis for go/no-go decisions; sized to project cost/benefit.
+- Should be reviewed and re-signed at key stages, not written once and forgotten.
+- Contents: exec summary, rationale, options, benefits, dis-benefits, timescale, costs, investment appraisal, major risks.
+
 There are many approaches and methodologies that are widely used across industry with organisations favoring standard industry ones (PRINCE2, PMBOK, Agile etc) or usually a modified version of these they make their own. ![Project methodologies](<methodologies (1).png>)
 
 ## Setting up a project for success. A business case is the key.

@@ -1,3 +1,20 @@
+# Earned Value Analysis (EVA)
+
+## Basic idea
+
+Compare *what you planned to have done*, *what you actually have done*, and *what it has cost* — to get objective cost- and schedule-performance numbers and forecast where the project will land.
+
+## Key formulas
+
+- $PV$ (Planned Value) = budgeted cost of work scheduled
+- $EV$ (Earned Value)  = budgeted cost of work performed
+- $AC$ (Actual Cost)   = actual cost of work performed
+- $CV = EV - AC$ (cost variance)
+- $SV = EV - PV$ (schedule variance)
+- $CPI = EV / AC$ (cost performance index; $<1$ = over budget)
+- $SPI = EV / PV$ (schedule performance index; $<1$ = behind)
+- $EAC = BAC / CPI$ (estimate at completion)
+
 ## Earned Value Analysis (EVA)
 
 - Eva can be used to:

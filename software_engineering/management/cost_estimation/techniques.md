@@ -1,5 +1,14 @@
 # Techniques for cost estimation
 
+## Basic idea
+
+Five canonical techniques: expert judgement (incl. Delphi), estimation by analogy, Parkinson's Law, pricing to win, and algorithmic models. Algorithmic models (COCOMO etc.) dominate in practice; the others remain useful as cross-checks or fallbacks.
+
+## Key formulas
+
+- Three-point (PERT): $e = (p + 4m + o)/6$
+- Algorithmic: $\text{Effort} = A \cdot \text{Size}^B \cdot M$, $B \in [1, 1.5]$
+
 1. Expert Judgement
    * Several experts on the proposed technique and application estimate project cost. There are discussed and compared until an agreement is reached.
    * Some expert judgement techniques involve polling each expert independently, in some cases for three estimates, pessimistic \(p\); optimistic \(o\) and most likely \(m\).

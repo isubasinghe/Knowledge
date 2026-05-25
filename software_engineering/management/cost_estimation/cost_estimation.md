@@ -1,5 +1,14 @@
 # Cost Estimation
 
+## Basic idea
+
+The act of predicting how much money, effort, time, and other resources a software project will consume. Always uncertain — useful because the estimate informs planning, prioritisation, and go/no-go decisions.
+
+## Key formulas
+
+- Algorithmic model: $\text{Effort} = A \cdot \text{Size}^B \cdot M$
+- PERT three-point: $E = (O + 4M + P)/6$
+
 ## What determines cost estimation?
 
 * Effort

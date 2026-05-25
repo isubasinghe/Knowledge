@@ -1,3 +1,16 @@
+# Failure Model
+
+## Basic idea
+
+Classification of how processes and channels can fail, used to decide what an algorithm must tolerate. Three top-level classes: omission (didn't do the thing), arbitrary/Byzantine (did the wrong thing), and timing (did the right thing at the wrong time).
+
+## Key facts
+
+- Omission: crashes, lost messages — masked by timeouts and retries.
+- Byzantine: arbitrary or malicious behaviour — needs $N \ge 3f+1$ for consensus.
+- Timing: only meaningful in synchronous models.
+- Fail-stop vs crash: in fail-stop, others *can* detect the failure with certainty.
+
 ## Failure Model
 The failures in processes and channels are presented using the following taxonomy:
 * Omission failures 

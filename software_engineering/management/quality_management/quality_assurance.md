@@ -1,3 +1,15 @@
+# Quality Assurance
+
+## Basic idea
+
+The framework of organisational procedures and standards that *make* high-quality software likely. Two flavours: **product standards** (about the artefact) and **process standards** (about how it's built).
+
+## Key facts
+
+- Product standards: design templates, requirements doc structure, coding standards, change-request templates.
+- Process standards: design review, version release, project plan approval, change control, test recording.
+- Tradeoff: provides structure and customer assurance; can become bureaucratic.
+
 ## Quality Assurance
 
 The establishment of a framework of organizational procedures and standards that lead to high quality software.

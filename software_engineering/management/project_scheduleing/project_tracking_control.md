@@ -1,3 +1,15 @@
+# Project Tracking and Control
+
+## Basic idea
+
+"Projects fall behind schedule one day at a time." Tracking + control catch slips early. Mechanisms: meetings, audits, milestone tracking, comparing actual vs scheduled start dates, informal conversations, and formal techniques like EVA.
+
+## Key facts
+
+- Slippage compounds — small daily slips become quarter-long misses.
+- Combine quantitative (EVA, milestone tracking) with qualitative (informal chats).
+- Catch problems at the next meeting, not the next quarter.
+
 ## Project Tracking and Control
 
 ### How do software projects fall behind schedule?

@@ -1,5 +1,15 @@
 # Memory
 
+## Basic idea
+
+Each process sees a private virtual address space. A page table maps virtual pages to physical frames (or to disk) and enforces per-page access control. Sharing real memory across virtual address spaces enables shared libraries, kernel mapping, and IPC.
+
+## Key formulas
+
+- Virtual address space size on $n$-bit machine: $2^n$ bytes.
+- Page table entry maps page $p$ → frame $f$ with permission bits.
+- TLB hit ratio $h$: effective access time $= h \cdot t_\text{cache} + (1-h) \cdot t_\text{mem}$.
+
 ## Address Space
 
 Most operating systems allocate a virtual address space for each process. The virtual addresss space is byte addressable and on a 32 bit computer has 2^32 byte addresses.

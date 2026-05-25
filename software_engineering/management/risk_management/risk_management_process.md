@@ -1,5 +1,14 @@
 # Risk management process
 
+## Basic idea
+
+Five steps, run continuously: Plan → Identify → Analyse/Assess → Respond → Monitor/Control. The first time through builds the RMP; subsequent passes keep it current.
+
+## Key formulas
+
+- Prioritisation: $RE = P \cdot I$
+- Response strategies: avoid, transfer, mitigate, accept.
+
 Plan
 
 * How to approach and plan risk management activities

@@ -1,3 +1,15 @@
+# Technical Reviews
+
+## Basic idea
+
+Human inspection of an artefact (doc, design, code) to find defects. Works on *any* artefact — including non-executable ones that testing cannot touch — and catches faults testing misses.
+
+## Key facts
+
+- Earlier than testing in the lifecycle ⇒ cheaper fixes.
+- Types: informal, formal, walk-throughs, code inspections, audits.
+- Costs: time, planning, discipline.
+
 ## Technical Reviews
 
 ### Advantages of technical reviews

@@ -1,5 +1,15 @@
 # Distributed Models
 
+## Basic idea
+
+Three layers of abstraction used to describe and reason about distributed systems: physical (hardware), architectural (components + patterns + middleware), and fundamental (non-functional properties such as reliability, security, performance).
+
+## Key facts
+
+- Synchronous: known bounds on execution time, message delay, and clock drift.
+- Asynchronous: no bounds on any of the above — much weaker but matches the open Internet.
+- Real systems are usually *partially* synchronous: bounds exist but are unknown or hold only eventually.
+
 A **physical model** considers: underlying hardware elements
 
 An **architectural** model considers:

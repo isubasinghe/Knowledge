@@ -1,3 +1,16 @@
+# PERT (Program Evaluation and Review Technique) chart
+
+## Basic idea
+
+Network diagram for project scheduling with probabilistic durations. Each activity has ES/LS/EF/LF/slack; the longest path is the *critical path* — delays there delay the project. "Crashing" shortens the critical path.
+
+## Key formulas
+
+- $T_E = (O + 4M + P)/6$
+- $\sigma = (P - O)/6$
+- $\text{Slack} = LS - ES = LF - EF$
+- Critical path: total slack = 0
+
 ## PERT (Program Evaluation and Review Technique) chart
 
 ### PERT charts help

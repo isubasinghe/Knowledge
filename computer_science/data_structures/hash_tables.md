@@ -1,5 +1,14 @@
-## Hash Tables
+# Hash Tables
 
+## Basic idea
+
+Map keys to slots via a hash function. With a good hash, lookups average $O(1)$. Collision handling (chaining, open addressing) and load factor determine performance.
+
+## Key formulas
+
+- Load factor: $\lambda = n/m$
+- Expected chain length (chaining): $\lambda$
+- Open addressing probe count (uniform hashing): $\approx \dfrac{1}{1-\lambda}$ (successful), $\dfrac{1}{(1-\lambda)^2}$ (unsuccessful)
 
 ### Poisson distribution
 Consider a hash table with **m** slots and **n** elements in it. 

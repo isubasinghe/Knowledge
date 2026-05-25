@@ -1,5 +1,15 @@
 # project\_manager
 
+## Basic idea
+
+The role accountable for delivering a project's goals on time, cost, and scope. Traditional PMs *command and control*; Agile Scrum Masters *facilitate and serve*.
+
+## Key facts
+
+- Four classical activity buckets: Planning, Organising, Leading, Controlling.
+- Pure Agile has no PM role — its activities are split across product owner, Scrum master, team.
+- Scrum master shift: command-and-control → servant leadership.
+
 ## Project Manager
 
 Project managers are highly skilled knowledge workers and change agents. They take accountability, make project goals their own and use their skills and expertise to inspire a sense of shared purpose across the project team. They enjoy the organised adrenaline of new challenges and the responsibility of driving business results.

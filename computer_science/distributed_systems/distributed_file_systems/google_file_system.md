@@ -1,5 +1,16 @@
 # Google File System
 
+## Basic idea
+
+Single-master, many-chunkserver design for huge sequential reads/writes over commodity hardware in one datacentre (2003). Trades strict POSIX semantics for simplicity, scalability, and automatic recovery from frequent disk failures.
+
+## Key facts
+
+- Chunk size: 64 MB; replication factor: 3 by default.
+- Master holds metadata in memory: namespace, chunk locations, leases.
+- Append-mostly workload; relaxed consistency for concurrent writers.
+- Heartbeat + checksum + re-replication give automatic fault tolerance.
+
 ## Requirements in GFS
 
 * Big

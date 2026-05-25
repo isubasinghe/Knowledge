@@ -1,5 +1,15 @@
 # How teams form & perform - Tuckman's team development model
 
+## Basic idea
+
+Tuckman (1965) proposed that teams pass through 4 (later 5) stages on their way to effectiveness. The point is that "storming" is *normal*, not a sign of failure — and "adjourning" deserves attention too.
+
+## Key facts
+
+- Stages: **Forming** → **Storming** → **Norming** → **Performing** → **Adjourning** (added later).
+- Positive signs: clear comms, brainstorming, consensus, shared problem-solving, timely hand-offs.
+- Negative signs: silos, "thrown over the wall" work, blame culture, frequent absence.
+
 * First proposed by Bruce Tuckman in 1965
 * 4 stages - Forming, Storming, Norming, Performing --&gt; Adjourning \(added later\)
 

@@ -1,5 +1,15 @@
 # Organisational theory and motivation
 
+## Basic idea
+
+Frameworks for analysing how to motivate people inside organisations. The two most-cited: Maslow's hierarchy of needs (lower needs must be met before higher ones become motivators) and Herzberg's two-factor model (separating *hygiene* from *motivators*).
+
+## Key facts
+
+- Maslow: physiological → safety → belonging → esteem → self-actualisation.
+- Herzberg hygiene factors (absence ⇒ dissatisfaction): working conditions, relations, policies, supervision, salary.
+- Herzberg motivators (presence ⇒ satisfaction): achievement, recognition, responsibility, work itself, advancement, growth.
+
 Organisational theory consists of approaches to organisational analysis. Organisations are groups of individuals that are structured and managed to meet a need, or to pursue collective goals.
 
 Some well known approaches are:

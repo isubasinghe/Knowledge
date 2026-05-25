@@ -1,5 +1,15 @@
 # Teams and teamwork
 
+## Basic idea
+
+A *team* is two or more individuals consciously working together toward a common goal — different from a *group*, which merely shares a workspace. Teamwork pools complementary skills and distributes accountability for shared outcomes.
+
+## Key facts
+
+- Individual → group → team progression requires commitment to each other + the goal.
+- Benefits: enhanced opportunities, productivity, ownership, creativity, broader perspective.
+- Rationale: few people have *all* the skills any non-trivial project needs.
+
 ## What is a team ?
 
 * An individual is a person with unique skills. 

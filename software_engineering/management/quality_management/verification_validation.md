@@ -1,5 +1,17 @@
 # Verification vs Validation
 
+## Basic idea
+
+*Verification* answers "are we building the system **right**?" — comparing internal artefacts to one another (req vs design, design vs code). *Validation* answers "are we building the **right** system?" — comparing the product to stakeholder needs.
+
+## Key facts
+
+- Verification: internal, developer-led; e.g. reviews, static analysis, type checks.
+- Validation: external, stakeholder-led; e.g. UAT, demos, beta tests.
+- Both are needed: you can build the wrong thing perfectly, or the right thing badly.
+
+# Verification vs Validation
+
 ## Verification
 
 * ensure the product is built correctly
